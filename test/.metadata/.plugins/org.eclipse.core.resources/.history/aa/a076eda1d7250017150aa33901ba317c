@@ -1,0 +1,16 @@
+package com.imooc.testing;
+
+import com.imooc.Tlephone;
+
+public class Testing {
+
+	public static void main(String[] args){
+		Tlephone tel = new Tlephone();
+		
+	}
+	
+	public void yield(){
+		System.out.println("testing is succeed");
+	}
+
+}

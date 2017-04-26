@@ -1,0 +1,30 @@
+import java.util.*;
+public class MainSystem {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public class Book{
+		private String[] BookDatas;
+		public void initBookDatas(){
+			BookDatas[0] = "JavaSE";
+			BookDatas[1] = "Java";
+			BookDatas[2] = "Network";
+			BookDatas[3] = "MySQL";
+			BookDatas[4] = "Algorithm";
+		}
+		
+		public void MainInterface(){
+			try{
+				System.out.println("输入命令：1.按照名称查找  2.按照序号查找 0.退出程序");
+				Scanner sc = new Scanner(System.in;
+				
+				
+			}
+		}
+		
+	}
+
+}

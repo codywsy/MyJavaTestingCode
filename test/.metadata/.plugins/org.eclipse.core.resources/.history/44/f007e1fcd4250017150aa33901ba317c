@@ -1,0 +1,16 @@
+package com.imooc;
+
+public class HelloWorld {
+	static String hobby = "imooc";
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("通过类名访问hobby:" + HelloWorld.hobby);
+		
+		HelloWorld hello = new HelloWorld();
+		System.out.println("通过对象名来访问hobby:" + hello.hobby);
+		
+		hello.hobby = "慕课网";
+		System.out.println("通过类名访问hobby:" + HelloWorld.hobby);
+	}
+
+}

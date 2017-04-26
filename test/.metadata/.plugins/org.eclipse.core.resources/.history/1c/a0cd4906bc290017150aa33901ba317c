@@ -1,0 +1,5 @@
+package imooc_exception_test;
+
+public class DrunkException {
+
+}

@@ -1,0 +1,17 @@
+package com.imooc2;
+
+public class SmartPhone extends Phone {
+
+	@Override
+	public void call() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void messga() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

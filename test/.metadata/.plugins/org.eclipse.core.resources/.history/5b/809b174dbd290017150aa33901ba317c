@@ -1,0 +1,23 @@
+package imooc_exception_test;
+
+public class ChainTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public void test1() throws DrunkException {
+		throw new DrunkException();
+	}
+	
+	public void test2(){
+		try{
+			test1();
+		} catch(DrunkException e){
+			RuntimeException NewExc = new RuntimeException(e);
+			throw NewExc
+		}
+		
+	}
+}

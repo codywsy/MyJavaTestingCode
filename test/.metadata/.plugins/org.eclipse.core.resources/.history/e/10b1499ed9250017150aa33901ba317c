@@ -1,0 +1,14 @@
+package com.imooc2;
+
+import com.imooc.Tlephone;
+
+public class Testing {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        //µ÷ÓÃTlephone
+        Tlephone tel = new Tlephone();
+        tel.call();
+	}
+
+}

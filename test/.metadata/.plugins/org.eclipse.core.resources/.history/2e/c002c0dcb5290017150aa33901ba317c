@@ -1,0 +1,31 @@
+package imooc_exception_test;
+
+public class TryCatchTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	/*
+	 * divider(除数)
+	 * result(结果)
+	 * try-catch捕获while虚幻
+	 * 每次循环，divider减一，result = reuslt+100/divider
+	 * 如果：捕获异常，打印输出“抛出异常了！！！”，返回-1
+	 * 否则：返回 result
+	 */
+	public int test()
+	{
+		int divider =10;
+		int result = 100;
+		try{
+			while(divider>-1){
+				divider--;
+				result = result + 100/divider;
+			}
+			return result;
+		}
+		return 0;
+	}
+}

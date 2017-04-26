@@ -1,0 +1,5 @@
+package com.imooc2;
+
+public interface IPlayGame {
+	public playGame();
+}
