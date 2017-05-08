@@ -1,9 +1,0 @@
-package com.imooc.testing;
-
-public class Testing {
-
-	public void yield(void){
-		System.out.println("testing is succeed");
-	}
-
-}

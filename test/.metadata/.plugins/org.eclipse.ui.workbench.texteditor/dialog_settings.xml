@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item value="&#x09;&#x09;Cadre cadre = new Cadre(&quot;李乐乐&quot;, 20, &quot;干部&quot;);" key="selection"/>
+		<item value="import com.imooc.testing.Testing;" key="selection"/>
 		<list key="findhistory">
+			<item value="import com.imooc.testing.Testing;"/>
 			<item value="&#x09;&#x09;Cadre cadre = new Cadre(&quot;李乐乐&quot;, 20, &quot;干部&quot;);"/>
 		</list>
 	</section>

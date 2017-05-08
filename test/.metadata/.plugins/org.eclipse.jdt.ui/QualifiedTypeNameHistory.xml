@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.imooc.HelloWorld"/>
+<fullyQualifiedTypeName name="com.imooc.testing.Testing"/>
+<fullyQualifiedTypeName name="com.imooc.Tlephone"/>
+</qualifiedTypeNameHistroy>
