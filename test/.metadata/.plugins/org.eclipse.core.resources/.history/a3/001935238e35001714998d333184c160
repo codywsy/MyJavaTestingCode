@@ -1,0 +1,10 @@
+package MapTest;
+
+public class MapText {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

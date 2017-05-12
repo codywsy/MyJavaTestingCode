@@ -1,9 +1,0 @@
-package imooc_exception_test;
-
-public class DrunkException extends Exception{
-	public DrunkException(){}
-	
-	public DrunkException(String message){
-		super(message);
-	}
-}
