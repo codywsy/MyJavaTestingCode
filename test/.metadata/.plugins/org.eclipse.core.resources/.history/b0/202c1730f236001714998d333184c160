@@ -1,0 +1,22 @@
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+
+public class CopyByByteStream {
+
+	public static void main(String[] args) {
+		try {
+			FileInputStream fis = new FileInputStream("ani.gif");
+			FileOutputStream fos = new FileOutputStream("ani_copy.gif");
+
+			byte input[] = new byte[50];
+			fis.read(input);
+			fos.write(input);
+			System.out.println("done!");
+		
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} 
+	}
+
+}
