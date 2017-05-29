@@ -6,7 +6,7 @@ import static java.lang.System.*;
 /**
  * This class is to test the attribute of package
  * @author ˼Զ
- * @category testing
+ *
  */
 
 public class PackageTest {
