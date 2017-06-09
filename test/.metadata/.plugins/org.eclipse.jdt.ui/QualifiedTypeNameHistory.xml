@@ -8,9 +8,17 @@
 <fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="org.omg.PortableServer.ImplicitActivationPolicyOperations"/>
 <fullyQualifiedTypeName name="java.lang.OutOfMemoryError"/>
-<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="PackageTest.com.horstmann.corejava.Employee"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="inheritance.ManagerTest"/>
+<fullyQualifiedTypeName name="inheritance.Manager"/>
+<fullyQualifiedTypeName name="inheritance.Employee"/>
+<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.PUBLIC_MEMBER"/>
+<fullyQualifiedTypeName name="abstractClass.Person"/>
+<fullyQualifiedTypeName name="abstractClass.Employee"/>
+<fullyQualifiedTypeName name="abstractClass.Student"/>
+<fullyQualifiedTypeName name="abstractClass.PersonTest"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
